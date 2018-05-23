@@ -34,7 +34,7 @@ Note: API use the plural names of the resource (`items` and not ~~`item`~~) as t
 
 Omeka S core integrates three RDF resource kinds:
 * `items` to CRUD an item, its properties and property values, its class, its template and its media.
-* `item-sets` to CRUD an item set, its properties and property values, its class, its template and its attached items.
+* `item_sets` to CRUD an item set, its properties and property values, its class, its template and its attached items.
 * `media` to CRUD a medium, its properties and property values, its class, its template and its content file (or value).
 * `resources` to perform generic SCRUD operations on resources.
 
